@@ -1,5 +1,5 @@
 package main
 
 func main() {
-	print("zyxwvutsrqponmlkjihgfedcba\n")
+	print("abcdefghijklmnopqrstuvwxyz\n")
 }

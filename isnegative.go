@@ -1,8 +1,3 @@
-Raw
-Permalink
-Blame
-History
-  
 package IsNegative
 
 import "github.com/01-edu/z01"

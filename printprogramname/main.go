@@ -2,7 +2,7 @@ package main
 
 import "os"
 
-func PrintProgramName() string {
+func ProgramName() string {
 	return os.Args[0]
 	
 }
